@@ -1,1 +1,76 @@
-.
+ .carousel {
+      margin-bottom: 60px;
+     margin-top: -20px;
+    }
+
+    .carousel-control {
+      margin-top:0px;
+      font-size: 120px;
+      z-index: 10px;
+      border: 3px solid none;
+      border-radius: 23px;
+      opacity: 0.5;
+      height: 0px;
+      text-align: center;
+      margin-top: 400px;
+
+
+ 
+    }
+
+    .carousel .item {
+    height:936px;
+    
+    }
+    .carousel img {
+        margin-top: px;
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+    
+    }
+
+.container-fluid{
+    background-color:white;
+    color: #5A5A5A;
+    font-size: 20px;  
+
+}
+   
+.navbar-brand{
+    font-size: 40px;
+}
+
+
+    
+.kajnudimo{
+    margin-left: 45%;
+    width: 250px;
+    font-family: helvetica;
+    font-size: 40px;
+    margin-bottom: 80px;
+    color: #5A5A5A;
+    
+}
+    
+.row{
+    
+}
+
+.kaj-nudimo{
+    width: 100%;
+}
+
+h2{
+    font-family: helvetica;
+    color:#5A5A5A;
+    margin-left: 200
+}
+
+.featurette-divider{
+    width: 1700;
+}
+
+.narocila{
+    
